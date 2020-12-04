@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1, h3, .calories-text {
+    text-align: center;
+}
+
+.calories-text {
+    color: #FFF;
+}
+
+.btn1 {
+    text-align: center;
+    margin-top: -1.5rem;
+}
+
+.container {
+    padding-top: 2.5rem;
+}
+
+.navbar-text {
+    margin: 0 auto;
+}
